@@ -6,6 +6,7 @@ docutils
 myst-parser
 pydata-sphinx-theme
 sphinx
+sphinx-exec-code
 sphinx-copybutton
 sphinx-design
 sphinx-remove-toctrees
