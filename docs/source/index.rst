@@ -100,7 +100,6 @@ We can inspect the result visually using the built-in plot functions:
     mdreg.plot.animation(coreg)
 
 
-
 ***************
 Getting started
 ***************
