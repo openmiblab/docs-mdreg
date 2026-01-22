@@ -1,0 +1,18 @@
+﻿mdreg.fit\_pca
+==============
+
+
+.. currentmodule:: mdreg
+
+
+
+.. autofunction:: fit_pca
+
+
+
+
+
+.. minigallery:: mdreg.fit_pca
+   :add-heading:
+
+
