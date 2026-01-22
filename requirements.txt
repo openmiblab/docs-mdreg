@@ -1,5 +1,6 @@
 mdreg
 miblab-data
+matplotlib
 autodocsumm
 docutils
 myst-parser
