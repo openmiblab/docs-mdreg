@@ -1,4 +1,4 @@
-mdreg
+mdreg[complete]
 miblab-data
 matplotlib
 autodocsumm
@@ -16,5 +16,5 @@ sphinxcontrib-htmlhelp
 sphinxcontrib-jsmath
 sphinxcontrib-qthelp
 sphinxcontrib-serializinghtml
-#nbsphinx
+sphinxcontrib-video
 sphinx-gallery
