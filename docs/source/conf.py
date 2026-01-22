@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 project = 'mdreg'
-copyright = '2025, mdreg maintainers'
+copyright = '2025-2026, mdreg maintainers'
 author = 'mdreg maintainers'
-release = '0.5.2'
+release = '0.5.4'
 
 # -- Path setup --------------------------------------------------------------
 # If extensions (or modules to document with autodoc) are in another directory,
@@ -113,11 +113,11 @@ always_document_param_types = True
 # The theme to use for HTML and HTML Help pages.  See the documentation for a list of builtin themes
 html_theme = 'pydata_sphinx_theme'
 html_theme_options = {
-    "github_url": "https://github.com/openmiblab/mdreg",
+    "github_url": "https://github.com/openmiblab/docs-mdreg",
     "collapse_navigation": True,
-    "analytics": {
-        "google_analytics_id": "G-09JY3Q032V", 
-    }
+    # "analytics": {
+    #     "google_analytics_id": "G-09JY3Q032V", 
+    # }
 }
 
 # Add any paths that contain custom static files (such as style sheets) here, relative to this directory. They are copied after the builtin static files, so a file named "default.css" will overwrite the builtin "default.css"
@@ -128,7 +128,7 @@ source_suffix = ['.rst', '.md']
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = '_static/tristan-logo.jpg'
+html_logo = '_static/miblab-gemini.jpg'
 
 # The base URL which points to the root of the HTML documentation. 
 # It is used to indicate the location of document
